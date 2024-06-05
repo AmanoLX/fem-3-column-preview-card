@@ -182,7 +182,7 @@ main {
 /* BUTTONS */
 
 .btn {
-  display: inline-block !important;
+  display: inline-block;
   cursor: pointer;
   mix-blend-mode: screen;
   background-color: var(--clr-very-light-grey);
