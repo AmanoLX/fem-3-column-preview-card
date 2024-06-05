@@ -6,7 +6,7 @@ const carsData = [
   {
     id: 1,
     name: 'Sedans',
-    info: 'Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip. dhehdehekdehIdeal for cruising in the city or on your next road trip. dhehdehekdeh',
+    info: 'Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.',
     icon: sedansIcon,
   },
   {
